@@ -15,5 +15,10 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/SMARF_1.0
 ### Implant Library
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.3/Implant_Library.GC.zip
 
+### GC Converter
+https://github.com/geno-sw2/AadvaStation-Release/wiki/GC-Converter
+
+### DataBase Patch
+https://github.com/geno-sw2/AadvaStation-Release/wiki/DataBase-Patch
 
 
