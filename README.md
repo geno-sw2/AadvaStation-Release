@@ -1,4 +1,4 @@
-## This is the repository for installation files
+## This is the repository for installation files batch test
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/AadvaStation-Release/releases
 
