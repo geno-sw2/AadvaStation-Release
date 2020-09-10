@@ -3,7 +3,7 @@
 https://github.com/geno-sw2/AadvaStation-Release/releases
 
 ### AadvaStation Rev.2757
-https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.6
+https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.7
 
 ### PortView
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/PortView.exe
