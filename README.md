@@ -9,7 +9,7 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.4
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.9/PortView_2.2.5.7.exe
 
 ### SMARF
-https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/SMARF_1.0.0.1.exe
+https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/SMARF.exe
 
 ### Implant Library
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.3/Implant_Library.JP.zip
