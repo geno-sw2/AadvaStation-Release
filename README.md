@@ -2,8 +2,8 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/AadvaStation-Release/releases
 
-### AadvaStation Rev.3040
-https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.9
+### AadvaStation Rev.3138
+https://github.com/geno-sw2/AadvaStation-Release/releases/tag/2.0
 
 ### PortView
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/Portview.exe
