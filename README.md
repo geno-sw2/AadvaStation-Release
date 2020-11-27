@@ -11,7 +11,7 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/PortView.
 ### SMARF
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/SMARF.exe
 
-### Implant Library - 1.0.0.1
+### Implant Library - 1.0.0.2
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/Implant_Library.exe
 
 ### GC Converter - 1.1.3 version
