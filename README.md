@@ -21,5 +21,5 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.8
 https://github.com/geno-sw2/AadvaStation-Release/wiki/DataBase-Patch
 
 ### Rule Creator
-
+https://github.com/geno-sw2/AadvaStation-Release/releases/tag/3.2
 
