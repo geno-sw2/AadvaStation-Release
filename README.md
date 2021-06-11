@@ -6,7 +6,7 @@ https://github.com/geno-sw2/AadvaStation-Release/releases
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4689
 
 ### AadvaStation 1.0.0.4 - Airway Demo
-https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4688
+https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4696
 
 ### PortView - 2.2.5.9
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/PortView.exe
