@@ -3,7 +3,7 @@
 https://github.com/geno-sw2/AadvaStation-Release/releases
 
 ### AadvaStation 1.0.0.4
-https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4689
+https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4697
 
 ### AadvaStation 1.0.0.4 - Airway Demo
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4696
