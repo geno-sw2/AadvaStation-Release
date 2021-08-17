@@ -2,7 +2,7 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/AadvaStation-Release/releases
 
-### AadvaStation 1.0.0.6
+### AadvaStation 1.0.0.7
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4736
 
 ### AadvaStation 1.0.0.4 - Airway Demo
