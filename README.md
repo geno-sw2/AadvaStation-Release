@@ -9,7 +9,7 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.0.0.9
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4696
 
 ### PortView - 2.2.5.9
-https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/PortView.exe
+https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/Portview.exe
 
 ### SMARF
 https://github.com/geno-sw2/AadvaStation-Release/releases/download/0.0/SMARF.exe
