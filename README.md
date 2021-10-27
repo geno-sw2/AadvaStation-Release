@@ -2,7 +2,7 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/AadvaStation-Release/releases
 
-### AadvaStation 1.0.0.11
+### AadvaStation 1.0.0.12
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.0.0.12
 
 ### AadvaStation 1.0.0.11
