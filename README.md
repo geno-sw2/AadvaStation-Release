@@ -17,7 +17,7 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.0
 ### SMARF
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.0
 
-### Implant Library - 1.0.0.5
+### Implant Library - 1.0.0.6
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.0
 
 ### GC Converter - 1.1.16 version
