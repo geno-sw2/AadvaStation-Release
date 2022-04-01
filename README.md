@@ -11,7 +11,7 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.0.0.13
 ### AadvaStation 1.0.0.4 - Airway Demo
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/4696
 
-### PortView - 2.2.5.11
+### PortView - 2.2.5.12
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.0
 
 ### SMARF
