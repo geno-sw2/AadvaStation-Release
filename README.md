@@ -20,7 +20,7 @@ https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.0
 ### Implant Library - 1.0.0.6
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.0
 
-### GC Converter - 1.1.16 version
+### GC Converter - 1.3.1 version
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/0.8
 
 ### DataBase Patch
