@@ -5,6 +5,9 @@ https://github.com/geno-sw2/AadvaStation-Release/releases
 ### AadvaStation 1.0.2.0
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.0.2.0
 
+### AadvaStation 1.0.1.2
+https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.0.1.2
+
 ### AadvaStation 1.0.1.1
 https://github.com/geno-sw2/AadvaStation-Release/releases/tag/1.0.1.1
 
